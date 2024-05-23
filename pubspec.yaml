@@ -1,0 +1,106 @@
+name: speedy_go
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  internet_connection_checker_plus:
+  get_it:
+  lottie:
+  shared_preferences:
+  bloc:
+  flutter_bloc:
+  dartz:
+  easy_localization:
+  dio:
+  flutter_svg:
+  flutter_animate:
+  json_annotation:
+  url_launcher:
+  pretty_dio_logger:
+  ntp:
+  gsheets:
+  image_picker:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  firebase_storage:
+  google_maps_flutter:
+  path:
+  uuid:
+  animations:
+  string_validator:
+  firebase_app_check:
+  table_calendar:
+  geolocator: ^8.2.1
+  geocoding:
+  curved_navigation_bar:
+  animated_bottom_navigation_bar:
+  shaped_bottom_bar:
+  animated_notch_bottom_bar:
+  carousel_slider:
+  cached_network_image:
+  flexible_polyline_dart:
+  share_plus:
+  easy_date_timeline:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints:
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/translations/
+    - assets/images/
+    - assets/maps/
+    - assets/svg/
+    - assets/lotties/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/english/poppins/Poppins-Black.ttf
+          weight: 900
+        - asset: assets/fonts/english/poppins/Poppins-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/english/poppins/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/english/poppins/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/english/poppins/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/english/poppins/Poppins-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/english/poppins/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/english/poppins/Poppins-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/english/poppins/Poppins-Thin.ttf
+          weight: 100
+    - family: Jakarta
+      fonts:
+        - asset: assets/fonts/english/jakarta/PlusJakartaSans-ExtraBold.ttf
+          weight: 800
+        - asset: assets/fonts/english/jakarta/PlusJakartaSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/english/jakarta/PlusJakartaSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/english/jakarta/PlusJakartaSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/english/jakarta/PlusJakartaSans-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/english/jakarta/PlusJakartaSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/english/jakarta/PlusJakartaSans-ExtraLight.ttf
+          weight: 200

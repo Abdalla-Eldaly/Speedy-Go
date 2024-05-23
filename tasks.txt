@@ -1,0 +1,23 @@
+- # image from camera #
+- handle no image picked
+- # PhoneNumberUtil #
+- login screen to be flexible and handle validation error overflow
+- remove useless back buttons in passenger trip
+- no internet
+- loading in driver map
+- change auth when update
+
+
+
+// driver home screen navbar
+
+// profile in both driver and passenger
+
+// buse screen drawer and scheduling
+
+- handle book bus tickets again
+
+
+CHECK
+-- handling driver close app --
+-- handling getting same user --
