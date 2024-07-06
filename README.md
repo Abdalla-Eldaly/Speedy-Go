@@ -28,4 +28,4 @@ Developing Speedy Go has been an incredible learning experience, allowing me to 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/speedy-go.git
+https://github.com/Abdalla-Eldaly/Speedy-Go.git
