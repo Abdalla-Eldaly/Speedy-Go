@@ -1,4 +1,6 @@
 # Speedy Go
+![Speedy Go Logo](https://user-images.githubusercontent.com/12345678/56789012-abcde123-1234-5678-9abc-def123456789.png)
+
 
 Speedy Go is a smart transportation application designed to streamline and enhance the user experience for both passengers and bus drivers. The app includes features such as distance and time calculations, emergency call functions, driver feedback, and more.
 
